@@ -1,0 +1,41 @@
+{
+  "stickers" : [
+    {
+      "filename" : "80percentdone.sticker"
+    },
+    {
+      "filename" : "Thatsweird.sticker"
+    },
+    {
+      "filename" : "findUnicorn.sticker"
+    },
+    {
+      "filename" : "herewego.sticker"
+    },
+    {
+      "filename" : "thatsongeminitoo.sticker"
+    },
+    {
+      "filename" : "LikeABusinessMan.sticker"
+    },
+    {
+      "filename" : "GinGout-1.sticker"
+    },
+    {
+      "filename" : "thatweirdtxt.sticker"
+    },
+    {
+      "filename" : "80percent.sticker"
+    },
+    {
+      "filename" : "MoreLuckyThanGood.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
