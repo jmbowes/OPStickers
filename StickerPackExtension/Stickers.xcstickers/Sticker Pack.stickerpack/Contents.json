@@ -1,6 +1,12 @@
 {
   "stickers" : [
     {
+      "filename" : "cricketcricket.sticker"
+    },
+    {
+      "filename" : "HellTeam.sticker"
+    },
+    {
       "filename" : "youtellme.sticker"
     },
     {
@@ -11,9 +17,6 @@
     },
     {
       "filename" : "ivegotyourlunch.sticker"
-    },
-    {
-      "filename" : "Thatsweird.sticker"
     },
     {
       "filename" : "findUnicorn.sticker"
